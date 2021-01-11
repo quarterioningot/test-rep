@@ -11,7 +11,7 @@ Do you remember those times where we took photos of ████████ dur
 
 It is ok if you don't remember everyhing, humans rarely do and besides you can refresh your memory by looking at the galleries and articles linked below. Let me know if I missed something. Enjoy my dearest ████████.
 
-- photographs
-- music
-- electronicals
-- computer wizardry
+- [photographs](/projects/photography)
+- [music](/projects/music)
+- [electronicals](/projects/electronics)
+- [computer wizardry](/projects/code)
