@@ -1,10 +1,9 @@
 Welcome Home
 ============
 
-It has been such a long time since I have seen your ██████ face. You have no changed a bit, keep up whatever you have been doing.
-However now I must welcome you properly, it rarely hurts.
-
+It has been such a long time since I have seen your ██████ face. You have not changed a tiny bit, I would say keep up whatever you have been doing but I would be lying.
 <br/>
+However now I must welcome you properly, it rarely hurts.
 
 ## Passions
 
