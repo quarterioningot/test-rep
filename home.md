@@ -10,7 +10,7 @@ However now we must welcome you properly. It rarely hurts, so please sit still.
 
 ## Passions
 
-Do you remember those times when we took photos of <random-text char-count="8">00000000</random-text> during that trip to <random-text char-count="12">000000000000</random-text>. What about the the time where we hacked into that deejay's computer during that one magical sunset, We made the deejay play that song written especially for our endless friendship. Alas you where always fiddling with that <random-text char-count="8">00000000</random-text> device we built for you, never paying any attention to us. However, it's ok if you don't remember everything, humans rarely do and besides you can refresh your memory by looking at the galleries and articles linked below.
+Do you remember those times when we took photos of <random-text char-count="8">00000000</random-text> during that trip to <random-text char-count="12">000000000000</random-text>. What about the the time we made the deejay play that song we wrote especially for our endless friendship. We sense that you might have trouble remembering. Alas, you where always fiddling with that <random-text char-count="8">00000000</random-text> device we built for you, never paying any attention to us. However it's ok if you don't remember everything, humans rarely do and besides you can refresh your memory by looking at the galleries and articles linked below.
 
 Let me know if we missed something. Now go and enjoy. my dearest <random-text char-count="8">00000000</random-text>.
 
